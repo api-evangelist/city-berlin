@@ -39,7 +39,6 @@ apis:
   - name: City, Berlin
     description: "Berlin(DE) City Open Data"
     humanURL: https://daten.berlin.de/
-    baseURL: https://daten.berlin.de/
     tags:
       - Government
     properties:
